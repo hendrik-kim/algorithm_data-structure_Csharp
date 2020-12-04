@@ -1,0 +1,13 @@
+C:\Users\Hank\Desktop\practice\Algorithm_DataStructure_Csharp\bin\Debug\netcoreapp3.1\Algorithm_DataStructure_Csharp.exe
+C:\Users\Hank\Desktop\practice\Algorithm_DataStructure_Csharp\bin\Debug\netcoreapp3.1\Algorithm_DataStructure_Csharp.deps.json
+C:\Users\Hank\Desktop\practice\Algorithm_DataStructure_Csharp\bin\Debug\netcoreapp3.1\Algorithm_DataStructure_Csharp.runtimeconfig.json
+C:\Users\Hank\Desktop\practice\Algorithm_DataStructure_Csharp\bin\Debug\netcoreapp3.1\Algorithm_DataStructure_Csharp.runtimeconfig.dev.json
+C:\Users\Hank\Desktop\practice\Algorithm_DataStructure_Csharp\bin\Debug\netcoreapp3.1\Algorithm_DataStructure_Csharp.dll
+C:\Users\Hank\Desktop\practice\Algorithm_DataStructure_Csharp\bin\Debug\netcoreapp3.1\Algorithm_DataStructure_Csharp.pdb
+C:\Users\Hank\Desktop\practice\Algorithm_DataStructure_Csharp\obj\Debug\netcoreapp3.1\Algorithm_DataStructure_Csharp.csprojAssemblyReference.cache
+C:\Users\Hank\Desktop\practice\Algorithm_DataStructure_Csharp\obj\Debug\netcoreapp3.1\Algorithm_DataStructure_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Hank\Desktop\practice\Algorithm_DataStructure_Csharp\obj\Debug\netcoreapp3.1\Algorithm_DataStructure_Csharp.AssemblyInfoInputs.cache
+C:\Users\Hank\Desktop\practice\Algorithm_DataStructure_Csharp\obj\Debug\netcoreapp3.1\Algorithm_DataStructure_Csharp.AssemblyInfo.cs
+C:\Users\Hank\Desktop\practice\Algorithm_DataStructure_Csharp\obj\Debug\netcoreapp3.1\Algorithm_DataStructure_Csharp.dll
+C:\Users\Hank\Desktop\practice\Algorithm_DataStructure_Csharp\obj\Debug\netcoreapp3.1\Algorithm_DataStructure_Csharp.pdb
+C:\Users\Hank\Desktop\practice\Algorithm_DataStructure_Csharp\obj\Debug\netcoreapp3.1\Algorithm_DataStructure_Csharp.genruntimeconfig.cache
