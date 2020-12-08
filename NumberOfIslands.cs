@@ -43,7 +43,7 @@ namespace Algorithm_DataStructure_Csharp
             return 0;
         }
 
-        public static void Main()
+        public static void _Main()
         {
             NumberOfIslands numberOfIslands = new NumberOfIslands();
 
