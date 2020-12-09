@@ -21,7 +21,7 @@ namespace Algorithm_DataStructure_Csharp
             }
             throw new ArgumentException("No result");
         }
-        public static void Main()
+        public static void _Main()
         {
 
             var towSum = new TwoSum();
