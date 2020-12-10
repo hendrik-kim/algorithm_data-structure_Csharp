@@ -15,8 +15,8 @@ namespace Algorithm_DataStructure_Csharp
     {
         public ListNode AddTwoNumbersSln(ListNode l1, ListNode l2)
         {
-            ListNode dummyHead = new ListNode(0);
-            ListNode p = l1, q = l2, curr = dummyHead;
+            ListNode prev = new ListNode(0);
+            ListNode p = l1, q = l2, curr = prev;
             int carry = 0;
 
             while (p != null || q != null)
@@ -36,7 +36,7 @@ namespace Algorithm_DataStructure_Csharp
                 curr.next = new ListNode(carry);
             }
 
-            return dummyHead.next;
+            return prev.next;
         }
 
         public static void Main(string[] args)
