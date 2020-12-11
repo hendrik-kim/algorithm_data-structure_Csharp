@@ -1,15 +1,5 @@
 namespace Algorithm_DataStructure_Csharp
 {
-    public class ListNode
-    {
-        public int val;
-        public ListNode next;
-        public ListNode(int val = 0, ListNode next = null)
-        {
-            this.val = val;
-            this.next = next;
-        }
-    }
 
     public class AddTwoNumbers
     {
@@ -39,7 +29,7 @@ namespace Algorithm_DataStructure_Csharp
             return prev.next;
         }
 
-        public static void Main(string[] args)
+        public static void _Main(string[] args)
         {
             ListNode list_1 = new ListNode(2, new ListNode(4, new ListNode(3, null)));
             ListNode list_2 = new ListNode(5, new ListNode(6, new ListNode(4, null)));
