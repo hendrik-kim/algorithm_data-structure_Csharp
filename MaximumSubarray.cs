@@ -68,7 +68,7 @@ namespace Algorithm_DataStructure_Csharp
             return max;
         }
 
-        static void Main(string[] args)
+        static void _Main(string[] args)
         {
             var solution = new MaximumSubarray();
             int[] input = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
