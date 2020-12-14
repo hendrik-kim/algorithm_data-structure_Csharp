@@ -33,5 +33,10 @@ namespace Algorithm_DataStructure_Csharp
                 maxLen = length = j - i - 1;
             }
         }
+        static void _Main(string[] args)
+        {
+            var test = new LongestPalindrome().LongestPalindromeSln("babad");
+            Console.WriteLine(test);
+        }
     }
 }

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hank\\source\\repos\\hendrik-kim\\algorithm_data-structure_java\\Algorithm_DataStructure_Csharp.csproj",
+      "projectUniqueName": "C:\\Users\\Hank\\Desktop\\practice\\Algorithm_DataStructure_Csharp\\Algorithm_DataStructure_Csharp.csproj",
       "projectName": "Algorithm_DataStructure_Csharp",
-      "projectPath": "C:\\Users\\Hank\\source\\repos\\hendrik-kim\\algorithm_data-structure_java\\Algorithm_DataStructure_Csharp.csproj",
+      "projectPath": "C:\\Users\\Hank\\Desktop\\practice\\Algorithm_DataStructure_Csharp\\Algorithm_DataStructure_Csharp.csproj",
       "packagesPath": "C:\\Users\\Hank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hank\\source\\repos\\hendrik-kim\\algorithm_data-structure_java\\obj\\",
+      "outputPath": "C:\\Users\\Hank\\Desktop\\practice\\Algorithm_DataStructure_Csharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -35,10 +35,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/Shawn0238/dd0271d2-5bc9-438c-9c2f-dffe3c396d21/_packaging/RMSLibraries%40Prerelease/nuget/v3/index.json": {},
+        "https://www.myget.org/F/openiddict/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -50,6 +53,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -65,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

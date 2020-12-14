@@ -6,20 +6,23 @@ namespace Algorithm_DataStructure_Csharp
 {
     class TwoSum
     {
-        public int[] twoSum(int[] nums, int target)
+        public int[] TwoSumSln(int[] nums, int target)
         {
-            var map = new Dictionary<int, int>();
-            for (int i = 0; i < nums.Length; i++)
-            {
-                int comp = target - nums[i];
 
-                if (map.ContainsKey(comp))
+            var dict = new Dictionary<int, int>();
+
+            for (var i = 0; i < nums.Length; i++)
+            {
+                var comp = target - nums[i];
+
+                if (dict.ContainsKey(comp))
                 {
-                    return new int[] { map[comp], i };
+                    return new int[] { dict[comp], i };
                 }
-                map.Add(nums[i], i);
+                else dict.Add(nums[i], i);
             }
-            throw new ArgumentException("No result");
+
+            return new int[] { 0, 0 };
         }
         public static void _Main()
         {
@@ -27,8 +30,8 @@ namespace Algorithm_DataStructure_Csharp
             var towSum = new TwoSum();
 
             int[] arr = { 1, 2, 3, 4, 5 };
-            
-            Console.WriteLine(towSum.twoSum(arr, 5));
+
+            Console.WriteLine(towSum.TwoSumSln(arr, 5));
         }
     }
 }
